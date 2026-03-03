@@ -1,0 +1,9 @@
+{
+	"name": "BuvanaJayADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0aeb40f9-1a73-4190-ac74-3bdc694ceac9",
+		"tenantId": "e486eb92-4f1e-4fe1-981f-c74713d0bd00"
+	}
+}
